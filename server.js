@@ -8,7 +8,7 @@ const app = express();
 app.use(cors());
 
 const allowedOrigins = [
-  'https://pw-thor-6781512f6f22.herokuapp.com',
+  'https://pw-api-smoky.vercel.app',
   'https://pwthor.site',
   'pwthor.site',
   'https://pwsufiyan.vercel.app',
